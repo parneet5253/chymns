@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string-array name="technology_list">
+     <item>c</item>
+        <item>ruby</item>
+        <item>c++</item>
+        <item>kotlin</item>
+        <item>java</item>
+        <item>rails</item>
+        <item>python</item>
+        <item>java script</item>
+        <item>php</item>
+        <item>hadoop</item>
+    </string-array>
+</resources>

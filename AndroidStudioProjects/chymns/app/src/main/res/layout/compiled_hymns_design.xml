@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3a3a4c">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="408dp"
+        android:layout_height="552dp"
+        tools:ignore="MissingConstraints"
+        android:background="#3a3a4c"
+        tools:layout_editor_absoluteY="179dp">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#3a3a4c"
+            android:textSize="66sp" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="2071dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="99dp"
+            android:background="#3a3a4c"
+            android:textSize="55dp" />
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
